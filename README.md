@@ -1,8 +1,8 @@
 # Movies_Analysis_and_Recommendation_System
-# **Problem Statement:**
+## **Problem Statement:**
 (Context)The TMDB movie analysis aims to uncover insights into the key factors driving movie success by examining budget, revenue, genres, cast, crew, and audience reception data. (Issue)Despite the availability of extensive movie data, many industry stakeholders struggle to interpret and utilize this information effectively, leading to potential financial losses and missed market trends. (Relevance)This analysis is relevant to producers, distributors, marketers, and researchers, providing a systematic approach to understanding the impact of various elements on a movie's performance. (Objective)The objective is to analyze budget and profitability, genre trends, cast and crew influence, user ratings, and optimal release timings, offering actionable recommendations for better decision-making in the film industry.
 
-**Approach:**
+## **Approach:**
 
 Data Preparation:
 Import and clean the bank loan dataset. Transform data using Power Query Editor.
