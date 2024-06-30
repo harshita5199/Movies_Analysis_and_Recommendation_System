@@ -5,7 +5,6 @@
 **Approach:**
 
 Data Preparation:
-
 Import and clean the bank loan dataset. Transform data using Power Query Editor.
 
 Exploratory Data Analysis (EDA):
