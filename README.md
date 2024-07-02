@@ -1,6 +1,13 @@
 # Movies_Analysis_and_Recommendation_System
 ## **Problem Statement:**
 The TMDB movie analysis and our movie recommendation website aim to address the significant challenge faced by industry stakeholders in interpreting and utilizing extensive movie data effectively, which often leads to financial losses and missed market trends. This combined effort is crucial for producers, distributors, marketers, and researchers who need a systematic approach to understanding the key factors driving movie success, such as budget, revenue, genres, cast, crew, and audience reception. The primary objective is to analyze these factors to provide actionable recommendations for better decision-making in the film industry. Additionally, by employing content-based filtering with the Bag-of-Words algorithm, our recommendation website enhances user satisfaction and engagement through personalized movie suggestions, highlighting popular genres and improving recommendation accuracy, thus offering a scalable solution for navigating the vast landscape of digital entertainment.
+
+### **Objective & Contraint:**
+- Business Objective:
+   To enhance movie industry performance by providing data-driven insights and personalized recommendations that align with market trends and audience preferences.
+- Constraint:
+  The system must efficiently handle and process large volumes of diverse movie data while ensuring user privacy and data security.
+
 ## **Approach:**
 
 1. Data Collection and Preprocessing::-
