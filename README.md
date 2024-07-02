@@ -8,6 +8,23 @@ The TMDB movie analysis and our movie recommendation website aim to address the 
 - **Constraint**:
   The system must efficiently handle and process large volumes of diverse movie data while ensuring user privacy and data security.
 
+### **Key Stakeholders:**
+1. Producers:
+   - Interested in understanding what drives movie success to make informed decisions about investments in film production.
+2. Distributors:
+   - Require insights into market trends and movie performance metrics to effectively distribute and promote films.
+3. Marketers:
+   - Need data on genres, ratings, and audience preferences to create targeted marketing campaigns and maximize reach.
+4. Researchers and Analysts:
+   - Use the data and insights from the analysis to study industry trends and forecast future performance.
+5. Directors and Actors:
+   - Benefit from understanding which types of films and roles are currently in demand and profitable.
+6. Production Houses (e.g., Warner Bros., Universal Pictures, Columbia Pictures, Paramount):
+   - Key players in film production looking to optimize their strategies based on detailed analysis and recommendations.
+7. Movie Audiences:
+   - End-users of the recommendation system who benefit from personalized movie suggestions and enhanced viewing experiences.
+
+
 ## **Approach:**
 
 1. Data Collection and Preprocessing::-
