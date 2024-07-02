@@ -4,24 +4,24 @@
 
 ## **Approach:**
 
-Data Preparation:
+1. Data Preparation:
 Import and clean the bank loan dataset. Transform data using Power Query Editor.
 
-Exploratory Data Analysis (EDA):
+2. Exploratory Data Analysis (EDA):
 Generate summary statistics and initial visualizations. Segment data by key variables.
 
-Interactive Dashboards:
+3. Interactive Dashboards:
 Develop dashboards for loan approval metrics, trend analysis, and risk analysis. Implement dynamic filters and slicers.
 
-Key Performance Indicators (KPIs):
+4. Key Performance Indicators (KPIs):
 Define and display crucial KPIs like default rates and approval ratios.
 
-Advanced Analysis:
+5. Advanced Analysis:
 Conduct correlation analysis and basic predictive insights with R or Python integration.
 
-Reporting and Insights:
+6. Reporting and Insights:
 Provide narrative summaries and actionable recommendations. Automate report updates and maintain relevance.
 
-Collaboration and Sharing:
+7. Collaboration and Sharing:
 Publish reports to the Power BI service for broader access. Share insights with stakeholders and establish a feedback loop for continuous improvement.
 
