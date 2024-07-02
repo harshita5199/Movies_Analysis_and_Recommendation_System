@@ -51,8 +51,8 @@ System Updates: Continuously improve the recommendation system based on feedback
 9. Which genres have the lowest budgets, movie counts, profits, and ratings?
    - Documentaries.
 10. Which years were notable for revenue, profit, ratings, and movie production?
-   - Highest revenue: 2016 and 2018.
-   - Most profitable: 2019 and 2018.
+      - Highest revenue: 2016 and 2018.
+      - Most profitable: 2019 and 2018.
    - Highest-rated films: 2018 and 2017.
    - Most movies produced: 2018, 2017, and 2016.
    - Lowest budget: 1920.
