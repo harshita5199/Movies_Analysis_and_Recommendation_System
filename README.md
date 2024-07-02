@@ -27,3 +27,38 @@ Decision-Making Support: Offer guidelines on budgeting, genre selection, casting
 7. Continuous Monitoring and Updates::-
 Data Monitoring: Regularly update the dataset.
 System Updates: Continuously improve the recommendation system based on feedback.
+
+## **Insights**:
+1. Which actors star in the highest revenue, profit, and high-budget movies?
+   - Tom Hanks, Tom Cruise, and Robert Downey Jr.
+2. Which actors appear in the most movies and highest-rated films? 
+   - Nicolas Cage, Bruce Willis, Robert De Niro.
+3. Which directors lead in high revenue, profit, and high-budget movies?
+   - Steven Spielberg, James Cameron, Anthony Russo.
+   - Spielberg, along with Michael Bay and Ridley Scott, also leads in high-budget films.
+4. Which directors have the highest movie counts and top-rated films?
+   - Woody Allen and Clint Eastwood.
+5. What are the top high-budget, highest-profit, and highly-rated movies?
+   - High-budget movies: Avatar, Pirates of the Caribbean, Avengers.
+   - Highest profit movies: Avatar, Avengers, The Lion King.
+   - Highly rated movies: Beauty and the Beast, Pinocchio, Les Miserables.
+6. Which production houses dominate in terms of revenue, profit, movie counts, and ratings?
+   - Warner Bros. Pictures, Universal Pictures, Columbia Pictures, and Paramount.
+7. Which genres generate the highest revenue and profit and have the highest budgets?
+   - Adventure and action genres.
+8. Which genres have the highest movie counts and ratings?
+   - Drama and comedy genres.
+9. Which genres have the lowest budgets, movie counts, profits, and ratings?
+   - Documentaries.
+10. Which years were notable for revenue, profit, ratings, and movie production?
+   - Highest revenue: 2016 and 2018.
+   - Most profitable: 2019 and 2018.
+   - Highest-rated films: 2018 and 2017.
+   - Most movies produced: 2018, 2017, and 2016.
+   - Lowest budget: 1920.
+   - A significant drop in profits: 2020 due to the pandemic.
+11. Which countries lead in movie budgets, counts, profits, ratings, and revenue?
+   - The USA, followed by Canada.
+   - Venezuela has the lowest revenue and profits, while Bolivia has the lowest budgets and ratings.
+   - China ranks high in movie counts.
+
