@@ -86,6 +86,8 @@ System Updates: Continuously improve the recommendation system based on feedback
       - Venezuela has the lowest revenue and profits, while Bolivia has the lowest budgets and ratings.
       - China ranks high in movie counts.
 
+<img width="1159" alt="Screenshot 2024-06-29 at 9 45 22 PM (1)" src="https://github.com/harshita5199/Movies_Analysis_and_Recommendation_System/assets/170127833/98be1d72-0074-46ff-b23b-820ecfe0761c">
+
 ## **Conclusion**:
 The TMDB movie analysis identifies key drivers of film success, including budgets, counts, profits, ratings, and revenues, with the USA and Canada leading these metrics through major production houses. High-budget productions and alignment with market trends are crucial for profitability. To boost industry performance, focusing on high-demand genres, leveraging talented directors and actors, and investing in professional training and advanced equipment is essential. Complementing this, our content-based movie recommendation system, integrated into a user-friendly website, uses the Bag-of-Words algorithm to provide personalized movie suggestions. It enhances user satisfaction and engagement through an intuitive interface, secure data management, and continuous feedback to refine recommendation accuracy, helping users discover new films and supporting informed decision-making.
 
